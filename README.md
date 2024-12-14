@@ -39,7 +39,7 @@
 - **_Press the numeric buttons to input a number._**
 - **_Press the operation buttons (+, -, ×, ÷) to perform a calculation._**
 - **_Press the `=` button to get the result._**
-- **_Use the `C` button to clear the input screen._**
+- **_Use the `AC` button to clear the input screen._**
 
 ## Project Setup
 
