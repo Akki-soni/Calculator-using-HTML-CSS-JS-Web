@@ -53,7 +53,7 @@ open index.html
 
 ## 🌟 Screenshots
 
-![Age Calculator App Screenshot](/Screenshot%20.png)
+![Calculator App Screenshot](/Calculator_Screenshot.png)
 
 ## 🔗 Live Demo
 
