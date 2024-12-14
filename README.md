@@ -46,7 +46,7 @@
 No external dependencies are required. Just clone the repository and open the `index.html` file in any modern web browser.
 
 ```bash
-git clone <https://github.com/Akki-soni/Calculator.git>
+git clone <https://github.com/Akki-soni/Calculator-using-HTML-CSS-JS-Web.git>
 cd calculator
 open index.html
 ```
