@@ -9,7 +9,7 @@
 </p>
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h1 align="center">Calculator</h1>
+<h1 align="center">Calculator Using (Html,CSS,JS)</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge">
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  A simple, modern-looking calculator built with HTML, CSS, and JavaScript. This calculator can perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
+  A simple, modern-looking calculator built with HTML, CSS, and JavaScript. This calculator can perform basic arithmetic operations such as addition, subtraction, multiplication, and division and many more.
 </p>
 
 ## 🚀 Features
